@@ -1,13 +1,18 @@
-// DENNE FIL ER KUN TIL BOOTSTRAP RETTELSER
+/* DENNE FIL ER KUN TIL BOOTSTRAP RETTELSER */
 
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
-//Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
+
+/* Her har jeg tilføjet farver til dette Bootstrap-projekt */
 $custom-colors: (
-  "primary": #0d6efd, //Retter primary
-  "minFarve": #ffff00 //Tilføjer minFarve
+  "Lysegrøn": #7CA68B,
+  "Mørkegrøn": #34593D,
+  "Brun": #402107,
+  "Hvid": #FFFFFF,
+  "Lysegrå": #D2D8D9,
+  "Mørkregrå": #BDBFBF
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 $theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");
@@ -15,4 +20,6 @@ $utilities-colors: map-merge($utilities-colors, $theme-colors-rgb);
 $utilities-text-colors: map-loop($utilities-colors, rgba-css-var, "$key", "text");
 $utilities-bg-colors: map-loop($utilities-colors, rgba-css-var, "$key", "bg");
 
+
+/* Nedenstående kode importere selve Bootstrap, så vi kan benytte det og dens indhold */
 @import "../node_modules/bootstrap/scss/bootstrap";
