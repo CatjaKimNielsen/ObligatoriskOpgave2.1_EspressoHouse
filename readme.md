@@ -1,3 +1,3 @@
-# Bootstrap & SASS Kick start projekt
+# Obligatorisk opgave 2.1 - Espresso House
 
-Klon dette projekt og kom hurtigt i gang med dit næste projekt.
+Inkludere fagene; webudvikling og digital kommunikation
