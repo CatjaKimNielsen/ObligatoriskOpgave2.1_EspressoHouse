@@ -32,7 +32,72 @@
 
     <?php include "includes/navigation.php"; ?>
 
-    <div> SKRIV NOGET LÆKKERT OM BÆREDYGTIGHED! </div>
+
+    <div class="container">
+
+        <h3 class="ms-1 mt-3 me-1 mb-4 text-center"> Bæredygtighed hos Espresso House </h3>
+
+        <img src="image/Bæredygtighed_KaffeNaturen.jpg">
+
+        <article class="ms-5 mt-4 me-5 mb-5">
+
+            <p> Hos Espresso House tager vi bæredygtighed seriøst, og ligesom mange andre ønsker
+            vi at bidrage til en bæredygtig fremtid. At være "tomorrow friendly" er en væsentlig
+            drivkraft i vores organisation, og vi forbedre konstant vores drift for at sikre en
+            arv, vi kan være stolte af. Vi er der ikke helt endnu, men vi er på rette vej, og med
+            "tomorrow friendly" håber vi at vise netop dét.
+            <br> Læs mere om tiltaget på <a href="https://tomorrowfriendly.com/"> www.tomorrowfriendly.com </a> </p>
+
+            <div class="collapse1 mt-4 mb-3">
+                <div>
+                    <p>
+                        <a class="btn btn-light_green w-100 dropdown-toggle" data-bs-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            Plantebaseret menu
+                        </a>
+                    </p>
+                    <div class="collapse" id="collapse1">
+                        <div class="card card-body">
+                            <h6 class="mb-2"> En grøn start med 100% god smag </h6>
+                            <p class="mb-4">Espresso House er primært kendt for varme og kolde drikke. Vores
+                            kaffebarer har et bredt udvalg af plantebaserede mejeriprodukter til
+                            espressodrikke, frapinos eller blot som supplement til brygget kaffe.
+                            12 % af alle de varme drikkevarer, vi solgte i 2021, blev tilberedt med
+                            plantebaserede melvarianter, og denne andel har været støt stigende de
+                            seneste år. Blandt de plantebaserede muligheder er havre-, soja-, kokos-
+                            og ærtendrikke, hvor havredrikke er de mest populære.
+                            <br><br> Uanset om produkterne er plantebaserede eller ej, er smagen det
+                            vigtigste hos Espresso House. Uanset deres madpræferencer vælger mange
+                            af vores gæster vores plantebaserede produkter og finder ud af, at de
+                            smager godt,” siger Jussi Merimaa, Category and Innovation Manager hos
+                            Espresso House Group.</p>
+                            <img src="image/Bæredygtighed_PlantebaseretMenu.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <p>
+                        <a class="btn btn-light_green w-100 dropdown-toggle" data-bs-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            En grøn start på året 2022
+                        </a>
+                    </p>
+                    <div class="collapse" id="collapse2">
+                        <div class="card card-body">
+                            <h6 class="mb-2"> En grøn start med 100% god smag </h6>
+                            <p class="mb-4">Det nye år er en tid til forandring og nye vaner.
+                            På Espresso House ønsker vi at bidrage til dette ved at fokusere
+                            på plantebaseret mad og drikkevarer. Plantebaseret mad er ikke kun
+                            godt for dit helbred, det er også et mere miljøvenligt og
+                            bæredygtigt valg.</p>
+                            <img src="image/Bæredygtighed_EnGrønStart.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </article>
+
+    </div>
+
 
     <?php include "includes/footer.php"; ?>
 

@@ -7,13 +7,13 @@
 
 /* Her har jeg tilføjet farver til dette Bootstrap-projekt */
 $custom-colors: (
-  "Lysegrøn": #7CA68B,
-  "Mørkegrøn": #34593D,
-  "Brun": #402107,
-  "Hvid": #FFFFFF,
-  "Lysegrå": #D2D8D9,
-  "Mørkregrå": #BDBFBF
+  "light_green": #7ca68b,
+  "dark_green": #34593d,
+  "brown": #341f12,
+  "light_grey": #d2d8d9,
+  "dark_grey": #bdbfbf
 );
+
 $theme-colors: map-merge($theme-colors, $custom-colors);
 $theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");
 $utilities-colors: map-merge($utilities-colors, $theme-colors-rgb);
