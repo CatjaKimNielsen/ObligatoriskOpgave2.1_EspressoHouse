@@ -43,14 +43,14 @@
 
         <article class="ms-5 mt-4 me-5 mb-5">
 
-            <p> På Espresso House brænder vi for en fantastisk kaffeoplevelse. Alt vores kaffe er
-            specialkaffe og det betyder, at kaffen altid når over 80 points på en kvalitetsskala
+            <p> Hos Espresso House brænder vi for en fantastisk kaffeoplevelse. Alt vores kaffe er
+            specialkaffe og det betyder, at kaffen altid når over 80 point på en kvalitetsskala
             fra 0–100. Det er der kun 5 % af alt kaffe i verden, der gør. Med andre ord kan vi
             bogstaveligt talt sige, at vores kaffe er i verdensklasse. <br><br> Hos os er
             friskheden af kaffen lige så vigtig som selve oplevelsen. Friskristet kaffe kan udfolde
             sin fulde smagskarakter - de mest delikate smagsnuancer og aromaer. For at sikre
             dokumentationen af friskheden på vores kaffe, markerer vi alle poser med
-            ristningsdato- og tidspunkt.</p>
+            ristningsdato og tidspunkt.</p>
 
             <div class="collapse1 mt-4 mb-3">
 
@@ -62,12 +62,12 @@
                     </p>
                     <div class="collapse" id="collapse1">
                         <div class="mt-2">
-                            <h6 class="mb-2"> Risteriet i Länna syg for Stockholm </h6>
+                            <h6 class="mb-2"> Risteriet i Länna syd for Stockholm </h6>
                             <p class="mb-4">I Länna syd for Stockholm har vi længe brygget på noget
                             stort. Her har vi nemlig bygget vores helt eget kafferisteri. Og det er
-                            ikke bare hvilket som helst risteri. Det er Europas største og mest
+                            ikke bare et hvilket som helst risteri. Det er Europas største og mest
                             moderne specialkafferisteri! Nu rister vi altså selv alt vores kaffe
-                            til alle vores coffee shops. Det gør vi af flere grunde. Men først
+                            til alle vores coffee shops. Det gør vi af flere grunde, men først
                             og fremmest, fordi vi elsker kaffe. Kaffe er ikke bare en drik. For os
                             er den en kunst og et håndværk, som fortjener den allerbedste behandling.</p>
                             <h6 class="mb-2"> Alt kaffe fortjener noget unikt </h6>
@@ -77,12 +77,12 @@
                             temperaturer og tider, så det passer bedst til lige præcis den kaffe,
                             vi har fået fra kaffebønderne. Vigtigst af alt har vi god tid til at
                             riste vores kaffe i lige præcis det tempo, som verdens bedste kaffe behøver.
-                            Det tempo er langsomt. Rigtigt langsomt. Metoden hedder også slowroasting,
+                            Det tempo er langsomt. Rigtig langsomt. Metoden hedder også slowroasting,
                             og med den fremkalder vi de mange fine smagsnuancer i kaffebønnerne. Hele
                             risteprocessen bliver endda overværet og kontrolleret af vores egen
                             Roastmaster, som er ekspert i at bringe det bedste frem i lige netop din
                             kaffe. Og behøver vi nævne, at kaffen er endnu mere frisk, når vi selv
-                            står for ristningen og sender den direkte ud til vores coffee shops? </p>
+                            står for ristningen og sender den direkte ud til vores kaffebarer? </p>
                             <img src="image/VoresKaffe_BønnerHænder.png">
                         </div>
                     </div>
