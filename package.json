@@ -1,7 +1,7 @@
 {
   "name": "npmtest",
   "version": "1.0.0",
-  "description": "Klon dette projekt og kom hurtigt i gang med dit næste projekt.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch --update --style=compressed css:css"
@@ -13,13 +13,5 @@
   },
   "devDependencies": {
     "sass": "^1.49.7"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CatjaKimNielsen/ObligatoriskOpgave2.1_EspressoHouse.git"
-  },
-  "bugs": {
-    "url": "https://github.com/CatjaKimNielsen/ObligatoriskOpgave2.1_EspressoHouse/issues"
-  },
-  "homepage": "https://github.com/CatjaKimNielsen/ObligatoriskOpgave2.1_EspressoHouse#readme"
+  }
 }

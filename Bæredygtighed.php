@@ -8,7 +8,7 @@
     <title> Bæredygtighed - Espresso House </title>
     <meta name="description" content="Hos Espresso House ønsker vi at bidrage til en mere bæredygtig og miljøvenlig verden ved at fokusere på plantebaseret mad og drikkevarer."
     <meta name="robots" content="All">
-    <meta name="author" content="Catja Nielsen, Susana Buch & Helene Holm">
+    <meta name="author" content="Catja Nielsen, Susana Buch & Helene Stahl Holm">
     <meta name="copyright" content="Information om copyright">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
