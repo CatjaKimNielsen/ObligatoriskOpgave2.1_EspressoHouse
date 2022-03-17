@@ -64,7 +64,7 @@
                         <div class="mt-2">
                             <h6 class="mb-2"> Risteriet i Länna syd for Stockholm </h6>
                             <p class="mb-4">I Länna syd for Stockholm har vi længe brygget på noget
-                            stort. Her har vi nemlig bygget vores helt eget kafferisteri. Og det er
+                            stort. Her har vi nemlig bygget vores eget kafferisteri. Og det er
                             ikke bare et hvilket som helst risteri. Det er Europas største og mest
                             moderne specialkafferisteri! Nu rister vi altså selv alt vores kaffe
                             til alle vores coffee shops. Det gør vi af flere grunde, men først
