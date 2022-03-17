@@ -83,32 +83,36 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12">
-                <img src="image/espressoh1a.jpg" alt="espresso1" class="img-fluid m-1">
+                <a href="Kontakt.php">
+                    <img src="image/espressoh1a.jpg" alt="espresso1" class="img-fluid m-2"></a>
                 <div class="overlay">
                 </div>
-                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
 
             </div>
 
             <div class="col-md-6 col-sm-12">
-                <img src="image/espressoh2a.jpg" alt="espresso2" class="img-fluid m-1">
+                <a href="OmOs.php">
+                    <img src="image/espressoh2a.jpg" alt="espresso2" class="img-fluid m-2"></a>
                 <div class="overlay">
                 </div>
-                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
 
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="image/espresso3a.png" alt="espresso3" class="img-fluid m-2">
+                <a href="PåMenuen.php">
+                    <img src="image/espresso3a.jpg" alt="espresso3" class="img-fluid m-2"></a>
                 <div class="overlay">
                 </div>
-                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
 
             </div>
             <div class="col-md-6 col-sm-12">
-                <img src="image/espressoh4a.jpg" alt="espresso1" class="img-fluid m-2">
+                <a href="VoresKaffe.php">
+                    <img src="image/espressoh4a.jpg" alt="espresso1" class="img-fluid m-2"></a>
                 <div class="overlay">
                 </div>
-                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
 
             </div>
 
