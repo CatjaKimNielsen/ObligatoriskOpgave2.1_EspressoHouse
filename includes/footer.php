@@ -35,6 +35,7 @@
                             <a class="nav-link" href="#"> <i class="fa-brands fa-twitter fa-2x"></i> </a>
                         </li>
                     </ul>
+
                 </div>
 
             </div>

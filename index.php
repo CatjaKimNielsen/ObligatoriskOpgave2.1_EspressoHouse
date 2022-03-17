@@ -41,7 +41,6 @@
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
         </div>
 
         <div class="carousel-inner">
@@ -64,13 +63,6 @@
                 <div class="carousel-caption">
                     <h5>ESPRESSO HOUSE ABONNEMENT</h5>
                     <p>Download app'en -> Find din favoritkaffe</p>
-                </div>
-            </div>
-            <div class="carousel-item carousel-dark">
-                <img src="image/Forside_Slider4.jpg" class="d-block w-100" alt="Del en hyggelig og lækker stund med dine nærmeste">
-                <div class="carousel-caption">
-                    <h5>...</h5>
-                    <p>...</p>
                 </div>
             </div>
         </div>
