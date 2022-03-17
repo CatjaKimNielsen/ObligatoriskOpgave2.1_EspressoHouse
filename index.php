@@ -24,6 +24,8 @@
 
     <script src="https://kit.fontawesome.com/2e00c5b256.js" crossorigin="anonymous"></script>
 
+
+
 </head>
 
 
@@ -85,14 +87,47 @@
     </div>
 
 
-    ... INDSÆT BILLEDKNAPPERNE HER ...
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+                <img src="image/espressoh1a.jpg" alt="espresso1" class="img-fluid m-1">
+                <div class="overlay">
+                </div>
+                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
+            </div>
+
+            <div class="col-md-6 col-sm-12">
+                <img src="image/espressoh2a.jpg" alt="espresso2" class="img-fluid m-1">
+                <div class="overlay">
+                </div>
+                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <img src="image/espresso3a.png" alt="espresso3" class="img-fluid m-2">
+                <div class="overlay">
+                </div>
+                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <img src="image/espressoh4a.jpg" alt="espresso1" class="img-fluid m-2">
+                <div class="overlay">
+                </div>
+                <button type="button" class="btn btn-light_green btn-lg">Large button</button>
+
+            </div>
+
+        </div>
+    </div>
 
 
     <?php include "includes/footer.php"; ?>
 
 
     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
 
 </body>
 </html>
